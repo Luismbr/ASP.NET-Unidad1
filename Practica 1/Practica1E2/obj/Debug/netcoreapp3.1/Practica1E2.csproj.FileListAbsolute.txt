@@ -1,0 +1,13 @@
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\bin\Debug\netcoreapp3.1\Practica1E2.exe
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\bin\Debug\netcoreapp3.1\Practica1E2.deps.json
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\bin\Debug\netcoreapp3.1\Practica1E2.runtimeconfig.json
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\bin\Debug\netcoreapp3.1\Practica1E2.runtimeconfig.dev.json
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\bin\Debug\netcoreapp3.1\Practica1E2.dll
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\bin\Debug\netcoreapp3.1\Practica1E2.pdb
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.csprojAssemblyReference.cache
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.AssemblyInfoInputs.cache
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.AssemblyInfo.cs
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.csproj.CoreCompileInputs.cache
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.dll
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.pdb
+C:\Users\soporte.CABREU\Downloads\Curriculum 2020\ASP.NET\Practica 1\Practica1E2\obj\Debug\netcoreapp3.1\Practica1E2.genruntimeconfig.cache
